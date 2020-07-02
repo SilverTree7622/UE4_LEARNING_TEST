@@ -1,0 +1,1317 @@
+﻿Log file open, 07/02/20 15:41:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LEARNING_TEST
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.148213
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal_folder/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Engine.ini]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Engine.ini]
+[2020.07.02-06.41.48:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Engine.ini]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Engine.ini]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.02-06.41.48:088][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.02-06.41.48:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Engine.ini]
+[2020.07.02-06.41.48:089][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Engine.ini]
+[2020.07.02-06.41.48:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.02-06.41.48:098][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.02-06.41.48:099][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:099][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.02-06.41.48:100][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.02-06.41.48:100][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.02-06.41.48:100][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.02-06.41.48:109][  0]LogHAL: Display: Platform has ~ 8 GB [8486875136 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.02-06.41.48:110][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.02-06.41.48:110][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.02-06.41.48:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.02-06.41.48:111][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Scalability.ini]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.02-06.41.48:112][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.02-06.41.48:113][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.02-06.41.48:113][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.02-06.41.48:113][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal_folder/project/LEARNING_TEST/Saved/Config/Windows/Engine.ini]
+[2020.07.02-06.41.48:113][  0]LogInit: Computer: DESKTOP-B39USN6
+[2020.07.02-06.41.48:113][  0]LogInit: User: dong5
+[2020.07.02-06.41.48:113][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.07.02-06.41.48:113][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.02-06.41.48:113][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.07.02-06.41.48:113][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.02-06.41.48:113][  0]LogMemory: Process Physical Memory: 100.89 MB used, 100.89 MB peak
+[2020.07.02-06.41.48:113][  0]LogMemory: Process Virtual Memory: 98.13 MB used, 98.13 MB peak
+[2020.07.02-06.41.48:113][  0]LogMemory: Physical Memory: 6061.47 MB used,  2032.24 MB free, 8093.71 MB total
+[2020.07.02-06.41.48:114][  0]LogMemory: Virtual Memory: 4650.04 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.07.02-06.41.48:120][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.02-06.41.48:170][  0]LogInit: Using OS detected language (ko-KR).
+[2020.07.02-06.41.48:170][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.07.02-06.41.48:172][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.07.02-06.41.48:338][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.02-06.41.48:521][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.02-06.41.48:521][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.02-06.41.49:028][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.02-06.41.49:029][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.02-06.41.49:075][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.07.02-06.41.49:075][  0]LogD3D11RHI:       128/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.07.02-06.41.49:079][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.02-06.41.49:079][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.02-06.41.49:083][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.02-06.41.49:083][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.02-06.41.49:083][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.02-06.41.49:091][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.02-06.41.49:092][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.02-06.41.49:092][  0]LogWindows: EnumDisplayDevices:
+[2020.07.02-06.41.49:092][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.07.02-06.41.49:093][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.07.02-06.41.49:093][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.07.02-06.41.49:094][  0]LogWindows:    3. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:094][  0]LogWindows:    4. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:095][  0]LogWindows:    5. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:095][  0]LogWindows:    6. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:096][  0]LogWindows:    7. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:096][  0]LogWindows:    8. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:097][  0]LogWindows:    9. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:097][  0]LogWindows:    10. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:097][  0]LogWindows:    11. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:098][  0]LogWindows:    12. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:098][  0]LogWindows:    13. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:099][  0]LogWindows:    14. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:099][  0]LogWindows:    15. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:100][  0]LogWindows:    16. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:100][  0]LogWindows:    17. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:101][  0]LogWindows:    18. 'spacedesk Graphics Adapter' (P:0 D:0)
+[2020.07.02-06.41.49:101][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2020.07.02-06.41.49:101][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.07.02-06.41.49:101][  0]LogD3D11RHI:   Driver Version: 26.20.100.7325 (internal:26.20.100.7325, unified:26.20.100.7325)
+[2020.07.02-06.41.49:101][  0]LogD3D11RHI:      Driver Date: 10-7-2019
+[2020.07.02-06.41.49:101][  0]LogRHI: Texture pool is 1506 MB (70% of 2151 MB)
+[2020.07.02-06.41.49:215][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.07.02-06.41.49:215][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.02-06.41.49:222][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.07.02-06.41.49:830][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.02-06.41.49:842][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.02-06.41.49:854][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.02-06.41.49:866][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.02-06.41.49:879][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.02-06.41.49:891][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.02-06.41.49:905][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.02-06.41.49:921][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.02-06.41.49:929][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.02-06.41.49:998][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.02-06.41.50:001][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.02-06.41.50:031][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.02-06.41.50:031][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.02-06.41.50:050][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.02-06.41.50:050][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.02-06.41.50:061][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.02-06.41.50:071][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.02-06.41.50:080][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.02-06.41.50:091][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.02-06.41.50:126][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.02-06.41.50:126][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.02-06.41.50:126][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.02-06.41.50:140][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.02-06.41.50:229][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../project/LEARNING_TEST/Intermediate/Shaders/WorkingDirectory/10040/).
+[2020.07.02-06.41.50:230][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dong5/AppData/Local/Temp/UnrealShaderWorkingDir/9D9556974F8C9C59FF14388AA74EA03B/'.
+[2020.07.02-06.41.50:240][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.02-06.41.50:240][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.02-06.41.50:240][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.02-06.41.51:313][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.02-06.41.51:427][  0]LogDerivedDataCache: Loaded boot cache 0.11s 73MB C:/Users/dong5/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.02-06.41.51:427][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dong5/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.07.02-06.41.51:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../project/LEARNING_TEST/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.02-06.41.51:427][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.02-06.41.51:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../project/LEARNING_TEST/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.02-06.41.51:427][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.02-06.41.51:453][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.02-06.41.51:454][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.02-06.41.51:454][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.02-06.41.51:457][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dong5/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.02-06.41.51:457][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.02-06.41.51:457][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.02-06.41.51:508][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.02-06.41.51:513][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.02-06.41.51:514][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.02-06.41.51:710][  0]LogAssetRegistry: FAssetRegistry took 0.0113 seconds to start up
+[2020.07.02-06.41.52:483][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.02-06.41.52:891][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.02-06.41.52:891][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.02-06.41.52:891][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.02-06.41.52:891][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.02-06.41.52:891][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.02-06.41.52:920][  0]LogNetVersion: LEARNING_TEST 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2800433128)
+[2020.07.02-06.41.54:583][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.581215 seconds
+[2020.07.02-06.41.54:603][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.07.02-06.41.54:604][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.07.02-06.41.54:604][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.02-06.41.57:728][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.02-06.41.58:133][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.02-06.41.58:291][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.07.02-06.41.58:291][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.07.02-06.41.58:294][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.07.02-06.41.58:298][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.07.02-06.41.58:592][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.02-06.41.59:015][  0]LogOcInput: OculusInput pre-init called
+[2020.07.02-06.41.59:038][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.02-06.41.59:038][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.02-06.41.59:192][  0]LogEngine: Initializing Engine...
+[2020.07.02-06.41.59:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.02-06.41.59:196][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.02-06.41.59:683][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.02-06.41.59:714][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.02-06.42.00:047][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.02-06.42.00:513][  0]LogInit: FAudioDevice initialized.
+[2020.07.02-06.42.00:513][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.02-06.42.00:611][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/dong5/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.07.02-06.42.00:622][  0]LogInit: Texture streaming: Enabled
+[2020.07.02-06.42.00:655][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.02-06.42.00:710][  0]LogInit: Transaction tracking system initialized
+[2020.07.02-06.42.00:764][  0]BlueprintLog: New page: 에디터 로드
+[2020.07.02-06.42.01:547][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.07.02-06.42.02:327][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_folder/project/LEARNING_TEST/Content/' took 0.01s
+[2020.07.02-06.42.02:327][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.02-06.42.02:327][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.02-06.42.02:846][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.07.02-06.42.02:870][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/unreal_folder/UE_4.23/FeaturePacks/MobileStarterContent.upack)
+[2020.07.02-06.42.02:899][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.07.02-06.42.03:072][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Floor_400x400.uasset"
+[2020.07.02-06.42.03:121][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset"
+[2020.07.02-06.42.03:170][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Wall_400x200.uasset"
+[2020.07.02-06.42.03:214][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x300.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Wall_400x300.uasset"
+[2020.07.02-06.42.03:260][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x400.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Wall_400x400.uasset"
+[2020.07.02-06.42.03:311][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_500x500.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Wall_500x500.uasset"
+[2020.07.02-06.42.03:367][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.07.02-06.42.03:464][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.07.02-06.42.03:521][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.07.02-06.42.03:570][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.07.02-06.42.03:732][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Collapse01.uasset"
+[2020.07.02-06.42.03:844][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse02.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Collapse02.uasset"
+[2020.07.02-06.42.03:882][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Collapse_Cue.uasset"
+[2020.07.02-06.42.03:961][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Explosion01.uasset"
+[2020.07.02-06.42.04:043][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion02.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Explosion02.uasset"
+[2020.07.02-06.42.04:087][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Explosion_Cue.uasset"
+[2020.07.02-06.42.04:230][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Fire01.uasset"
+[2020.07.02-06.42.04:282][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Fire01_Cue.uasset"
+[2020.07.02-06.42.04:361][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset"
+[2020.07.02-06.42.04:394][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.07.02-06.42.04:513][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Light01.uasset"
+[2020.07.02-06.42.04:547][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Light01_Cue.uasset"
+[2020.07.02-06.42.04:600][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Light02.uasset"
+[2020.07.02-06.42.04:627][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Light02_Cue.uasset"
+[2020.07.02-06.42.04:681][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Smoke01.uasset"
+[2020.07.02-06.42.04:717][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset"
+[2020.07.02-06.42.04:756][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.07.02-06.42.05:033][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Birds01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Starter_Birds01.uasset"
+[2020.07.02-06.42.05:681][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Starter_Music01.uasset"
+[2020.07.02-06.42.05:726][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.07.02-06.42.05:941][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind05.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Starter_Wind05.uasset"
+[2020.07.02-06.42.06:178][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind06.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Starter_Wind06.uasset"
+[2020.07.02-06.42.06:300][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Steam01.uasset"
+[2020.07.02-06.42.06:341][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01_Cue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Audio/Steam01_Cue.uasset"
+[2020.07.02-06.42.06:486][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.07.02-06.42.06:550][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.07.02-06.42.06:594][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.07.02-06.42.06:641][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.07.02-06.42.06:676][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.07.02-06.42.06:774][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.07.02-06.42.06:951][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default.umap" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Maps/Minimal_Default.umap"
+[2020.07.02-06.42.07:111][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.07.02-06.42.07:247][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap.umap" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Maps/StarterMap.umap"
+[2020.07.02-06.42.08:469][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.07.02-06.42.08:622][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset"
+[2020.07.02-06.42.08:672][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset"
+[2020.07.02-06.42.08:730][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.07.02-06.42.08:775][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.07.02-06.42.08:875][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.07.02-06.42.08:926][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.07.02-06.42.08:967][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.07.02-06.42.09:017][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.07.02-06.42.09:053][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.07.02-06.42.09:091][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.07.02-06.42.09:130][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.07.02-06.42.09:200][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.07.02-06.42.09:262][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.07.02-06.42.09:316][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.07.02-06.42.09:365][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.07.02-06.42.09:406][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Glass.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Glass.uasset"
+[2020.07.02-06.42.09:471][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset"
+[2020.07.02-06.42.09:517][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.07.02-06.42.09:556][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset"
+[2020.07.02-06.42.09:642][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.07.02-06.42.09:688][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.07.02-06.42.09:762][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.07.02-06.42.09:806][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset"
+[2020.07.02-06.42.09:868][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset"
+[2020.07.02-06.42.09:911][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset"
+[2020.07.02-06.42.09:971][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset"
+[2020.07.02-06.42.10:030][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.07.02-06.42.10:094][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.07.02-06.42.10:157][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.07.02-06.42.10:238][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset"
+[2020.07.02-06.42.10:281][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.07.02-06.42.10:325][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.07.02-06.42.10:366][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.07.02-06.42.10:423][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset"
+[2020.07.02-06.42.10:469][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Water_Lake.uasset"
+[2020.07.02-06.42.10:554][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset"
+[2020.07.02-06.42.10:623][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.07.02-06.42.10:668][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.07.02-06.42.10:735][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset"
+[2020.07.02-06.42.10:779][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset"
+[2020.07.02-06.42.10:822][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.07.02-06.42.10:922][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.07.02-06.42.10:987][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Explosion.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/P_Explosion.uasset"
+[2020.07.02-06.42.11:033][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Fire.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/P_Fire.uasset"
+[2020.07.02-06.42.11:096][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Smoke.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/P_Smoke.uasset"
+[2020.07.02-06.42.11:141][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Sparks.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/P_Sparks.uasset"
+[2020.07.02-06.42.11:268][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset"
+[2020.07.02-06.42.11:325][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.07.02-06.42.11:368][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.07.02-06.42.11:419][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.07.02-06.42.11:456][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.07.02-06.42.11:492][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.07.02-06.42.11:548][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.07.02-06.42.11:599][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.07.02-06.42.11:648][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset"
+[2020.07.02-06.42.11:780][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/MaterialSphere.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/MaterialSphere.uasset"
+[2020.07.02-06.42.11:860][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Bush.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Bush.uasset"
+[2020.07.02-06.42.11:906][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Chair.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Chair.uasset"
+[2020.07.02-06.42.11:943][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_CornerFrame.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_CornerFrame.uasset"
+[2020.07.02-06.42.11:989][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Couch.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Couch.uasset"
+[2020.07.02-06.42.12:091][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Door.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Door.uasset"
+[2020.07.02-06.42.12:146][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_DoorFrame.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_DoorFrame.uasset"
+[2020.07.02-06.42.12:202][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_GlassWindow.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_GlassWindow.uasset"
+[2020.07.02-06.42.12:271][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.07.02-06.42.12:314][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.07.02-06.42.12:529][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.07.02-06.42.12:616][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_PillarFrame.uasset"
+[2020.07.02-06.42.12:699][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset"
+[2020.07.02-06.42.12:758][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Rock.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Rock.uasset"
+[2020.07.02-06.42.12:806][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Shelf.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Shelf.uasset"
+[2020.07.02-06.42.12:861][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Stairs.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Stairs.uasset"
+[2020.07.02-06.42.12:986][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Statue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_Statue.uasset"
+[2020.07.02-06.42.13:063][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_TableRound.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_TableRound.uasset"
+[2020.07.02-06.42.13:098][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_WindowFrame.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/SM_WindowFrame.uasset"
+[2020.07.02-06.42.13:217][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Bush.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_Bush.uasset"
+[2020.07.02-06.42.13:250][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Chair.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_Chair.uasset"
+[2020.07.02-06.42.13:284][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Door.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_Door.uasset"
+[2020.07.02-06.42.13:320][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Frame.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_Frame.uasset"
+[2020.07.02-06.42.13:350][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset"
+[2020.07.02-06.42.13:382][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.07.02-06.42.13:417][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.07.02-06.42.13:452][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Rock.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_Rock.uasset"
+[2020.07.02-06.42.13:485][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset"
+[2020.07.02-06.42.13:519][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Statue.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_Statue.uasset"
+[2020.07.02-06.42.13:578][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.07.02-06.42.13:626][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset"
+[2020.07.02-06.42.13:721][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cone.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Cone.uasset"
+[2020.07.02-06.42.13:754][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cube.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Cube.uasset"
+[2020.07.02-06.42.13:806][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.07.02-06.42.13:857][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.07.02-06.42.13:894][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset"
+[2020.07.02-06.42.13:969][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.07.02-06.42.14:036][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.07.02-06.42.14:071][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Plane.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Plane.uasset"
+[2020.07.02-06.42.14:107][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.07.02-06.42.14:155][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset"
+[2020.07.02-06.42.14:266][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Torus.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Torus.uasset"
+[2020.07.02-06.42.14:321][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Trim.uasset"
+[2020.07.02-06.42.14:355][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.07.02-06.42.14:395][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.07.02-06.42.14:434][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.07.02-06.42.14:473][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Tube.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Tube.uasset"
+[2020.07.02-06.42.14:501][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.07.02-06.42.14:539][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.07.02-06.42.14:578][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.07.02-06.42.14:865][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.07.02-06.42.15:041][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.07.02-06.42.15:187][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.07.02-06.42.15:344][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.07.02-06.42.15:571][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.07.02-06.42.15:745][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.07.02-06.42.16:064][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.07.02-06.42.16:291][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.07.02-06.42.16:565][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.07.02-06.42.16:779][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.07.02-06.42.17:004][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.07.02-06.42.17:233][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.07.02-06.42.17:429][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.07.02-06.42.17:479][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Burst_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Burst_M.uasset"
+[2020.07.02-06.42.17:528][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Bush_D.uasset"
+[2020.07.02-06.42.17:603][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Bush_N.uasset"
+[2020.07.02-06.42.17:654][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.07.02-06.42.17:701][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.07.02-06.42.17:797][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Chair_M.uasset"
+[2020.07.02-06.42.17:885][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Chair_N.uasset"
+[2020.07.02-06.42.17:919][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.07.02-06.42.18:166][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.07.02-06.42.18:274][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.07.02-06.42.18:458][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.07.02-06.42.18:558][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.07.02-06.42.18:662][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.07.02-06.42.18:830][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.07.02-06.42.18:963][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.07.02-06.42.19:165][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.07.02-06.42.19:359][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.07.02-06.42.19:591][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.07.02-06.42.19:727][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.07.02-06.42.19:975][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.07.02-06.42.20:148][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.07.02-06.42.20:314][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.07.02-06.42.20:472][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.07.02-06.42.20:603][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.07.02-06.42.20:621][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.07.02-06.42.20:720][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.07.02-06.42.20:776][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Door_M.uasset"
+[2020.07.02-06.42.20:824][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Door_N.uasset"
+[2020.07.02-06.42.20:851][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.07.02-06.42.20:950][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.07.02-06.42.21:008][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.07.02-06.42.21:045][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.07.02-06.42.21:089][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Frame_M.uasset"
+[2020.07.02-06.42.21:130][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Frame_N.uasset"
+[2020.07.02-06.42.21:148][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset"
+[2020.07.02-06.42.21:362][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.07.02-06.42.21:616][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.07.02-06.42.21:869][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.07.02-06.42.22:064][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.07.02-06.42.22:343][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.07.02-06.42.22:540][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.07.02-06.42.22:658][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Lamp_M.uasset"
+[2020.07.02-06.42.22:753][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Lamp_N.uasset"
+[2020.07.02-06.42.22:987][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_MacroVariation.uasset"
+[2020.07.02-06.42.23:164][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.07.02-06.42.23:397][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.07.02-06.42.23:645][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.07.02-06.42.23:710][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.07.02-06.42.23:951][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.07.02-06.42.24:153][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.07.02-06.42.24:290][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.07.02-06.42.24:452][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.07.02-06.42.24:650][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.07.02-06.42.24:905][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.07.02-06.42.25:102][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.07.02-06.42.25:275][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.07.02-06.42.25:535][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.07.02-06.42.25:754][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.07.02-06.42.25:997][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.07.02-06.42.26:204][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.07.02-06.42.26:386][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.07.02-06.42.26:490][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset"
+[2020.07.02-06.42.26:667][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset"
+[2020.07.02-06.42.26:706][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Shelf_M.uasset"
+[2020.07.02-06.42.26:762][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Shelf_N.uasset"
+[2020.07.02-06.42.26:780][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.07.02-06.42.26:886][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.07.02-06.42.26:922][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.07.02-06.42.26:956][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Spark_Core.uasset"
+[2020.07.02-06.42.27:031][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Statue_M.uasset"
+[2020.07.02-06.42.27:078][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Statue_N.uasset"
+[2020.07.02-06.42.27:122][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_TableRound_M.uasset"
+[2020.07.02-06.42.27:173][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_TableRound_N.uasset"
+[2020.07.02-06.42.27:204][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.07.02-06.42.27:260][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.07.02-06.42.27:327][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.07.02-06.42.27:367][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.07.02-06.42.27:410][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.07.02-06.42.27:496][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.07.02-06.42.27:548][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Water_M.uasset"
+[2020.07.02-06.42.27:647][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Water_N.uasset"
+[2020.07.02-06.42.27:785][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.07.02-06.42.27:907][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.07.02-06.42.28:002][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.07.02-06.42.28:144][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.07.02-06.42.28:311][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.07.02-06.42.28:500][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.07.02-06.42.28:621][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.07.02-06.42.28:761][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.07.02-06.42.28:888][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../project/LEARNING_TEST/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.07.02-06.42.28:973][  0]LogStaticMesh: Floor_400x400 스태틱 메시 빌드중...
+[2020.07.02-06.42.28:991][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MobileStarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.07.02-06.42.29:241][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.07.02-06.42.30:730][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MobileStarterContent/Architecture/Floor_400x400" FILE="../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.07.02-06.42.31:316][  0]LogSavePackage: Moving '../../../../project/LEARNING_TEST/Saved/Floor_400x4000E4287FF498B1FCDEDB1AEBA39A3222E.tmp' to '../../../../project/LEARNING_TEST/Content/MobileStarterContent/Architecture/Floor_400x400.uasset'
+[2020.07.02-06.42.31:464][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.07.02-06.42.31:482][  0]Cmd: MAP LOAD FILE="../../../../project/LEARNING_TEST/Content/RollingBP/Maps/RollingBPExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.02-06.42.31:482][  0]LightingResults: New page: 라이팅 빌드
+[2020.07.02-06.42.31:488][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-06.42.31:489][  0]MapCheck: New page: 맵 체크
+[2020.07.02-06.42.31:489][  0]LightingResults: New page: 라이팅 빌드
+[2020.07.02-06.42.31:525][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.07.02-06.42.31:643][  0]LogLinker: Warning: Asset '../../../../project/LEARNING_TEST/Content/Rolling/Materials/M_Blue_Checker.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.07.02-06.42.31:782][  0]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.07.02-06.42.31:960][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.07.02-06.42.31:960][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.07.02-06.42.31:960][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.07.02-06.42.31:960][  0]LogMaterial: Display: Missing cached shader map for material M_Blue_Checker, compiling. 
+[2020.07.02-06.42.32:077][  0]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.02-06.42.32:123][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.02-06.42.32:272][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.07.02-06.42.32:273][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.02-06.42.32:274][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.674ms.
+[2020.07.02-06.42.32:274][  0]LogFileHelpers: Loading map 'RollingBPExampleMap' took 0.792
+[2020.07.02-06.42.32:811][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-06.42.32:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-06.42.32:850][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-06.42.32:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-06.42.32:932][  0]LogCollectionManager: Loaded 0 collections in 0.002944 seconds
+[2020.07.02-06.42.33:271][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_folder/project/LEARNING_TEST/Saved/Collections/' took 0.00s
+[2020.07.02-06.42.33:271][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_folder/project/LEARNING_TEST/Content/Developers/dong5/Collections/' took 0.00s
+[2020.07.02-06.42.33:271][  0]LogFileCache: Scanning file cache for directory 'D:/unreal_folder/project/LEARNING_TEST/Content/Collections/' took 0.00s
+[2020.07.02-06.42.33:271][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.07.02-06.42.33:300][  0]LogContentBrowser: Native class hierarchy populated in 0.0230 seconds. Added 2863 classes and 680 folders.
+[2020.07.02-06.42.33:338][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.07.02-06.42.33:456][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.02-06.42.36:530][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.07.02-06.42.40:014][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.07.02-06.42.40:088][  0]LogSlate: Took 0.017246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.02-06.42.40:165][  0]LogSlate: Took 0.074832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.07.02-06.42.40:257][  0]LogSlate: Took 0.090261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.07.02-06.42.40:273][  0]LogSlate: Took 0.015338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.02-06.42.40:301][  0]LogSlate: Took 0.013655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.02-06.42.40:625][  0]LogRenderer: Reallocating scene render targets to support 612x576 Format 10 NumSamples 1 (Frame:1).
+[2020.07.02-06.42.41:971][  0]LogSlate: Last resort fallback font was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '셰 (U+c170)'
+[2020.07.02-06.42.42:048][  0]LogSlate: Took 0.075473 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.07.02-06.42.42:333][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.02-06.42.42:333][  0]LogLoad: (Engine Initialization) Total time: 57.69 seconds
+[2020.07.02-06.42.42:333][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.02-06.42.42:563][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.02-06.42.47:118][ 90]LogAssetRegistry: Asset discovery search completed in 55.4125 seconds
+[2020.07.02-06.42.47:135][ 90]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000012 seconds (found 0 objects)
+[2020.07.02-06.42.47:135][ 90]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000175 seconds (updated 0 objects)
+[2020.07.02-06.43.25:410][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2020.07.02-06.43.26:379][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.02-06.43.26:529][825]LogRenderer: Reallocating scene render targets to support 616x576 Format 10 NumSamples 1 (Frame:818).
+[2020.07.02-06.43.26:782][826]LogRenderer: Reallocating scene render targets to support 640x576 Format 10 NumSamples 1 (Frame:820).
+[2020.07.02-06.43.26:939][826]LogRenderer: Reallocating scene render targets to support 696x576 Format 10 NumSamples 1 (Frame:822).
+[2020.07.02-06.43.30:933][916]LogRenderer: Reallocating scene render targets to support 716x576 Format 10 NumSamples 1 (Frame:909).
+[2020.07.02-06.43.31:156][917]LogRenderer: Reallocating scene render targets to support 900x576 Format 10 NumSamples 1 (Frame:910).
+[2020.07.02-06.43.38:087][ 73]LogEditorViewport: Clicking on Actor (LMB): PhysicsBallBP_C (PhysicsBallBP)
+[2020.07.02-06.43.41:835][120]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.02-06.43.42:083][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.02-06.43.42:221][125]LogSlate: Took 0.002021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.02-06.43.42:233][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/PhysicsBallBP.PhysicsBallBP
+[2020.07.02-06.43.43:077][125]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.02-06.43.43:228][125]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 121 classes and 0 folders.
+[2020.07.02-06.43.45:463][125]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.07.02-06.43.45:784][125]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.07.02-06.43.45:871][125]LogSlate: Took 0.016965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.02-06.43.46:266][126]LogSlate: Took 0.014615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.02-06.43.56:116][250]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.07.02-06.44.03:678][400]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.07.02-06.44.03:793][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2020.07.02-06.44.03:797][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-06.44.03:814][400]PIE: New page: PIE 세션: RollingBPExampleMap (2020. 7. 3. 오전 12:44:03)
+[2020.07.02-06.44.03:820][400]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.02-06.44.03:828][400]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.02-06.44.03:898][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069288s)
+[2020.07.02-06.44.03:902][400]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2020.07.02-06.44.03:903][400]LogPlayLevel: PIE: World Init took: (0.004910s)
+[2020.07.02-06.44.03:903][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.075531s)
+[2020.07.02-06.44.03:992][400]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.07.02-06.44.04:042][400]LogInit: XAudio2 using '스피커(Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.02-06.44.04:097][400]LogInit: FAudioDevice initialized.
+[2020.07.02-06.44.04:133][400]LogLoad: Game class is 'RollingGameMode_C'
+[2020.07.02-06.44.04:165][400]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 60) at 2020.07.02-15.44.04
+[2020.07.02-06.44.04:172][400]LogWorld: Bringing up level for play took: 0.013146
+[2020.07.02-06.44.04:176][400]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.07.02-06.44.04:235][400]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.07.02-06.44.04:245][400]PIE: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.429
+[2020.07.02-06.44.04:246][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2020.07.02-06.44.19:456][556]LogSlate: Window 'PhysicsBallBP' being destroyed
+[2020.07.02-06.45.18:226][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2020.07.02-06.45.18:237][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-06.45.18:238][905]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2020.07.02-06.45.18:240][905]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-06.45.18:347][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-06.45.18:348][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2020.07.02-06.45.18:504][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-06.45.18:533][905]LogUObjectHash: Compacting FUObjectHashTables data took  16.45ms
+[2020.07.02-06.45.18:619][906]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.07.02-06.45.22:732][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.02-06.45.26:866][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.07.02-06.45.32:145][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.02-06.46.20:348][ 44]LogTemp: Repeating last play command: 모바일 프리뷰 ES2 (PIE)
+[2020.07.02-06.46.20:496][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.07.02-06.47.18:810][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.02-06.47.29:815][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.07.02-06.47.29:842][751]LogPlayLevel: Launcher Device ID: HTML5@C:/Program Files (x86)/Google/Chrome/Application/chrome.exe
+[2020.07.02-06.47.29:908][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-06.47.29:910][751]LogCook: Display: Creating asset registry
+[2020.07.02-06.47.31:340][751]LogCook: Display: Discovering localized assets
+[2020.07.02-06.47.31:360][751]LogCook: Display: Cooked content cleared for platform AllDesktop
+[2020.07.02-06.47.31:363][751]LogCook: Display: Unable to read previous cook inisettings for platform AllDesktop invalidating cook
+[2020.07.02-06.47.31:718][751]LogCook: Display: Cooked content cleared for platform MacClient
+[2020.07.02-06.47.31:719][751]LogCook: Display: Unable to read previous cook inisettings for platform MacClient invalidating cook
+[2020.07.02-06.47.32:025][751]LogCook: Display: Cooked content cleared for platform MacNoEditor
+[2020.07.02-06.47.32:026][751]LogCook: Display: Unable to read previous cook inisettings for platform MacNoEditor invalidating cook
+[2020.07.02-06.47.32:330][751]LogCook: Display: Cooked content cleared for platform MacServer
+[2020.07.02-06.47.32:331][751]LogCook: Display: Unable to read previous cook inisettings for platform MacServer invalidating cook
+[2020.07.02-06.47.32:647][751]LogCook: Display: Cooked content cleared for platform Mac
+[2020.07.02-06.47.32:648][751]LogCook: Display: Unable to read previous cook inisettings for platform Mac invalidating cook
+[2020.07.02-06.47.33:001][751]LogCook: Display: Cooked content cleared for platform WindowsClient
+[2020.07.02-06.47.33:002][751]LogCook: Display: Unable to read previous cook inisettings for platform WindowsClient invalidating cook
+[2020.07.02-06.47.33:318][751]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.07.02-06.47.33:319][751]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.07.02-06.47.33:599][751]LogCook: Display: Cooked content cleared for platform WindowsServer
+[2020.07.02-06.47.33:600][751]LogCook: Display: Unable to read previous cook inisettings for platform WindowsServer invalidating cook
+[2020.07.02-06.47.33:885][751]LogCook: Display: Cooked content cleared for platform Windows
+[2020.07.02-06.47.33:886][751]LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+[2020.07.02-06.47.34:159][751]LogCook: Display: Cooked content cleared for platform Android
+[2020.07.02-06.47.34:160][751]LogCook: Display: Unable to read previous cook inisettings for platform Android invalidating cook
+[2020.07.02-06.47.34:387][751]LogCook: Display: Cooked content cleared for platform Android_ASTC
+[2020.07.02-06.47.34:387][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTC invalidating cook
+[2020.07.02-06.47.34:687][751]LogCook: Display: Cooked content cleared for platform Android_ATC
+[2020.07.02-06.47.34:687][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATC invalidating cook
+[2020.07.02-06.47.34:943][751]LogCook: Display: Cooked content cleared for platform Android_DXT
+[2020.07.02-06.47.34:943][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXT invalidating cook
+[2020.07.02-06.47.35:194][751]LogCook: Display: Cooked content cleared for platform Android_ETC1
+[2020.07.02-06.47.35:195][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1 invalidating cook
+[2020.07.02-06.47.35:454][751]LogCook: Display: Cooked content cleared for platform Android_ETC1a
+[2020.07.02-06.47.35:455][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1a invalidating cook
+[2020.07.02-06.47.35:704][751]LogCook: Display: Cooked content cleared for platform Android_ETC2
+[2020.07.02-06.47.35:704][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2 invalidating cook
+[2020.07.02-06.47.35:978][751]LogCook: Display: Cooked content cleared for platform Android_PVRTC
+[2020.07.02-06.47.35:978][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTC invalidating cook
+[2020.07.02-06.47.36:285][751]LogCook: Display: Cooked content cleared for platform AndroidClient
+[2020.07.02-06.47.36:285][751]LogCook: Display: Unable to read previous cook inisettings for platform AndroidClient invalidating cook
+[2020.07.02-06.47.36:627][751]LogCook: Display: Cooked content cleared for platform Android_ASTCClient
+[2020.07.02-06.47.36:628][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTCClient invalidating cook
+[2020.07.02-06.47.36:931][751]LogCook: Display: Cooked content cleared for platform Android_ATCClient
+[2020.07.02-06.47.36:931][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATCClient invalidating cook
+[2020.07.02-06.47.37:233][751]LogCook: Display: Cooked content cleared for platform Android_DXTClient
+[2020.07.02-06.47.37:233][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXTClient invalidating cook
+[2020.07.02-06.47.37:512][751]LogCook: Display: Cooked content cleared for platform Android_ETC1Client
+[2020.07.02-06.47.37:512][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1Client invalidating cook
+[2020.07.02-06.47.37:790][751]LogCook: Display: Cooked content cleared for platform Android_ETC1aClient
+[2020.07.02-06.47.37:790][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1aClient invalidating cook
+[2020.07.02-06.47.38:086][751]LogCook: Display: Cooked content cleared for platform Android_ETC2Client
+[2020.07.02-06.47.38:087][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2Client invalidating cook
+[2020.07.02-06.47.38:408][751]LogCook: Display: Cooked content cleared for platform Android_PVRTCClient
+[2020.07.02-06.47.38:409][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTCClient invalidating cook
+[2020.07.02-06.47.38:722][751]LogCook: Display: Cooked content cleared for platform Android_Multi
+[2020.07.02-06.47.38:722][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_Multi invalidating cook
+[2020.07.02-06.47.38:971][751]LogCook: Display: Cooked content cleared for platform Android_MultiClient
+[2020.07.02-06.47.38:972][751]LogCook: Display: Unable to read previous cook inisettings for platform Android_MultiClient invalidating cook
+[2020.07.02-06.47.39:226][751]LogCook: Display: Cooked content cleared for platform HTML5
+[2020.07.02-06.47.39:226][751]LogCook: Display: Unable to read previous cook inisettings for platform HTML5 invalidating cook
+[2020.07.02-06.47.39:461][751]LogCook: Display: Cooked content cleared for platform IOSClient
+[2020.07.02-06.47.39:461][751]LogCook: Display: Unable to read previous cook inisettings for platform IOSClient invalidating cook
+[2020.07.02-06.47.39:738][751]LogCook: Display: Cooked content cleared for platform IOS
+[2020.07.02-06.47.39:738][751]LogCook: Display: Unable to read previous cook inisettings for platform IOS invalidating cook
+[2020.07.02-06.47.39:992][751]LogCook: Display: Cooked content cleared for platform TVOSClient
+[2020.07.02-06.47.39:993][751]LogCook: Display: Unable to read previous cook inisettings for platform TVOSClient invalidating cook
+[2020.07.02-06.47.40:297][751]LogCook: Display: Cooked content cleared for platform TVOS
+[2020.07.02-06.47.40:297][751]LogCook: Display: Unable to read previous cook inisettings for platform TVOS invalidating cook
+[2020.07.02-06.47.40:552][751]LogCook: Display: Cooked content cleared for platform LinuxClient
+[2020.07.02-06.47.40:552][751]LogCook: Display: Unable to read previous cook inisettings for platform LinuxClient invalidating cook
+[2020.07.02-06.47.40:819][751]LogCook: Display: Cooked content cleared for platform LinuxNoEditor
+[2020.07.02-06.47.40:820][751]LogCook: Display: Unable to read previous cook inisettings for platform LinuxNoEditor invalidating cook
+[2020.07.02-06.47.41:091][751]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2020.07.02-06.47.41:091][751]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2020.07.02-06.47.41:364][751]LogCook: Display: Cooked content cleared for platform Linux
+[2020.07.02-06.47.41:364][751]LogCook: Display: Unable to read previous cook inisettings for platform Linux invalidating cook
+[2020.07.02-06.47.41:617][751]LogCook: Display: Cooked content cleared for platform Lumin
+[2020.07.02-06.47.41:618][751]LogCook: Display: Unable to read previous cook inisettings for platform Lumin invalidating cook
+[2020.07.02-06.47.41:933][751]LogCook: Display: Cooked content cleared for platform LuminClient
+[2020.07.02-06.47.41:934][751]LogCook: Display: Unable to read previous cook inisettings for platform LuminClient invalidating cook
+[2020.07.02-06.47.42:221][751]LogCook: Display: Sandbox cleanup took 10.861 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin LuminClient  iterative false
+[2020.07.02-06.47.43:431][751]LogMaterial: Verifying Global Shaders for GLSL_ES2_WEBGL
+[2020.07.02-06.49.07:249][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 334
+[2020.07.02-06.49.07:249][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 333
+[2020.07.02-06.49.07:249][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 332
+[2020.07.02-06.49.07:249][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 331
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 330
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 329
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 328
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 327
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 326
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 325
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 324
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 323
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 322
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 321
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 320
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 319
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 318
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 317
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 316
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 315
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 314
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 313
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 312
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 311
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 310
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 309
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 308
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 307
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 306
+[2020.07.02-06.49.07:250][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 305
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 304
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 303
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 302
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 301
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 300
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 299
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 298
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 297
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 296
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 295
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 294
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 293
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 292
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 291
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 290
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 289
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 288
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 287
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 286
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 285
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 284
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 283
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 282
+[2020.07.02-06.49.07:251][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 281
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 280
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 279
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 278
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 277
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 276
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 275
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 274
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 273
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 272
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 271
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 270
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 269
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 268
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 267
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 266
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 265
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 264
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 263
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 262
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 261
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 260
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 259
+[2020.07.02-06.49.07:252][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 258
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 257
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 256
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 255
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 254
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 253
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 252
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 251
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 250
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 249
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 248
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 247
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 246
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 245
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 244
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 243
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 242
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 241
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 240
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 239
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 238
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 237
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 236
+[2020.07.02-06.49.07:253][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 235
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 234
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 233
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 232
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 231
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 230
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 229
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 228
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 227
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 226
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 225
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 224
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 223
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 222
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 221
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 220
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 219
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 218
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 217
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 216
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 215
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 214
+[2020.07.02-06.49.07:254][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 213
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 212
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 211
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 210
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 209
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 208
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 207
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 206
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 205
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 204
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 203
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 202
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 201
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 200
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 199
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 198
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 197
+[2020.07.02-06.49.07:255][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 196
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 195
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 194
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 193
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 192
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 191
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 190
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 189
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 188
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 187
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 186
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 185
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 184
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 183
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 182
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 181
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 180
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 179
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 178
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 177
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 176
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 175
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 174
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 173
+[2020.07.02-06.49.07:256][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 172
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 171
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 170
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 169
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 168
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 167
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 166
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 165
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 164
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 163
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 162
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 161
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 160
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 159
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 158
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 157
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 156
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 155
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 154
+[2020.07.02-06.49.07:257][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 153
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 152
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 151
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 150
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 149
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 148
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 147
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 146
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 145
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 144
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 143
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 142
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 141
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 140
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 139
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 138
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 137
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 136
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 135
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 134
+[2020.07.02-06.49.07:258][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 133
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 132
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 131
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 130
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 129
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 128
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 127
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 126
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 125
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 124
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 123
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 122
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 121
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 120
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 119
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 118
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 117
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 116
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 115
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 114
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 113
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 112
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 111
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 110
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 109
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2020.07.02-06.49.07:259][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 107
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 106
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 105
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 104
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 103
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 102
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 101
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 100
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 99
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 98
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 97
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 96
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 95
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 94
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 93
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 92
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 91
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 90
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 89
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 87
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 86
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 85
+[2020.07.02-06.49.07:260][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 84
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 83
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 82
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 81
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 80
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 78
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 77
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 76
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 75
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 74
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 73
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 72
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 71
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 70
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 69
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 68
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 67
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 63
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2020.07.02-06.49.07:261][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 61
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 53
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 51
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 47
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 44
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2020.07.02-06.49.07:262][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.07.02-06.49.07:263][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.07.02-06.49.07:264][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.07.02-06.49.07:337][752]LogCook: Display: Cooked packages 0 Packages Remain 377 Total 377
+[2020.07.02-06.49.07:431][752]LogMaterial: Display: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2020.07.02-06.49.09:337][752]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2020.07.02-06.49.09:337][752]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2020.07.02-06.49.09:337][752]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.07.02-06.49.09:637][753]LogAIModule: Creating AISystem for world Entry
+[2020.07.02-06.49.09:662][754]LogCook: Display: Cooked packages 0 Packages Remain 378 Total 378
+[2020.07.02-06.49.09:695][754]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2020.07.02-06.49.09:885][755]LogTexture: Display: 텍스처 빌드: TilePatine_N (DXT5, 512X512)
+[2020.07.02-06.49.09:919][755]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2020.07.02-06.49.10:143][755]LogContentBrowser: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.07.02-06.49.10:972][756]LogTexture: Display: 텍스처 빌드: S_Actor (RGBA8, 128X128)
+[2020.07.02-06.49.10:972][756]LogTexture: Display: 텍스처 빌드: S_ExpoHeightFog (RGBA8, 256X256)
+[2020.07.02-06.49.10:982][756]LogCook: Display: Cooked packages 1 Packages Remain 378 Total 379
+[2020.07.02-06.49.11:122][757]LogCook: Display: Cooked packages 4 Packages Remain 377 Total 381
+[2020.07.02-06.49.11:167][757]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2020.07.02-06.49.11:260][757]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
